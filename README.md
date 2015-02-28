@@ -17,4 +17,4 @@ Alternative model tests and measurement models are discussed that might provide 
 
 This discussion is underpinned by a simulation study comparing the adequacy of various measurement models to examine structural assumptions about scientific thinking.
 
-Based on the results of the simulation study, we conclude that alternative measurement models intervention studies might be the preferred methods to shed further light on the roots of scientific thinking.
+Based on the results of the simulation study, we conclude that alternative measurement models and intervention studies might be the preferred methods to shed further light on the interrelations of scientific thinking.
