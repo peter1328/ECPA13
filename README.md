@@ -1,7 +1,7 @@
 # ECPA13
 European Conference on Psychological Assessment 2015
 
-TITLE: Statistical and Theoretical Reductionism in Research on Scientific Thinking: How much theory Rasch Models reveal?
+TITLE: Statistical and Theoretical Reductionism in Research on Scientific Thinking: How much theory can Rasch Models reveal?
 
 In recent research on scientific thinking, Rasch modeling was employed to investigate the dimensionality of items that were meant to cover a wide variety of skills.
 
